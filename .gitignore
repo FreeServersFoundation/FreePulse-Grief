@@ -1,0 +1,42 @@
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# jar
+
+paper-1.16.5-794.jar
+plugins/*.jar
+
+# logs
+logs/
+
+# other
+cache/
+libraries/
+crash-reports/
+.console_history
+eula.txt
+server.properties
+*.log
+
+# other json
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+whitelist.json
